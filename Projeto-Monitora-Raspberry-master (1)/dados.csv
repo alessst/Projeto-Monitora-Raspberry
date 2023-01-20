@@ -1,0 +1,23 @@
+Modelo CPU,Hardware,Revisão,Serial,Modelo Rasp,MacAddress Ethernet,MacAddress Wifi
+ARMv7 Processor rev 3 (v7l),BCM2711,d03114,10000000829cebe7,Raspberry Pi 4 Model B Rev 1.4,e4:5f:01:c4:1a:1f,e4:5f:01:c4:1a:20
+ARMv7 Processor rev 3 (v7l),BCM2711,c03114,1000000067a00dcf,Raspberry Pi 4 Model B Rev 1.4,e4:5f:01:6a:55:69,e4:5f:01:6a:55:6a
+ARMv7 Processor rev 3 (v7l),BCM2711,b03114,10000000d3042266,Raspberry Pi 4 Model B Rev 1.4,e4:5f:01:19:5f:ce,e4:5f:01:19:5f:cf
+ARMv7 Processor rev 3 (v7l),BCM2711,c03115,10000000579dfed7,Raspberry Pi 4 Model B Rev 1.5,e4:5f:01:a8:8d:2f,e4:5f:01:a8:8d:30
+ARMv7 Processor rev 3 (v7l),BCM2711,b03114,100000001932928e,Raspberry Pi 4 Model B Rev 1.4,e4:5f:01:16:11:f5,e4:5f:01:16:11:f7
+ARMv7 Processor rev 3 (v7l),BCM2711,b03114,10000000c5dc45c6,Raspberry Pi 4 Model B Rev 1.4,e4:5f:01:19:60:0d,e4:5f:01:19:60:0e
+ARMv7 Processor rev 3 (v7l),BCM2711,b03114,10000000f3eb87fd,Raspberry Pi 4 Model B Rev 1.4,e4:5f:01:41:38:d5,e4:5f:01:41:38:d7
+ARMv7 Processor rev 3 (v7l),BCM2711,b03112,10000000faa75c18,Raspberry Pi 4 Model B Rev 1.2,dc:a6:32:cb:36:15,dc:a6:32:cb:36:16
+ARMv7 Processor rev 3 (v7l),BCM2711,d03114,10000000829cebe7,Raspberry Pi 4 Model B Rev 1.4,e4:5f:01:c4:1a:1f,e4:5f:01:c4:1a:20
+ARMv7 Processor rev 3 (v7l),BCM2711,c03115,10000000249d73f3,Raspberry Pi 4 Model B Rev 1.5,e4:5f:01:a6:f3:0c,e4:5f:01:a6:f3:0e
+ARMv7 Processor rev 3 (v7l),BCM2711,c03115,10000000249d73f3,Raspberry Pi 4 Model B Rev 1.5,e4:5f:01:a6:f3:0c,e4:5f:01:a6:f3:0e
+ARMv7 Processor rev 3 (v7l),BCM2711,c03115,10000000579dfed7,Raspberry Pi 4 Model B Rev 1.5,e4:5f:01:a8:8d:2f,e4:5f:01:a8:8d:30
+ARMv7 Processor rev 3 (v7l),BCM2711,b03112,10000000faa75c18,Raspberry Pi 4 Model B Rev 1.2,dc:a6:32:cb:36:15,dc:a6:32:cb:36:16
+ARMv7 Processor rev 3 (v7l),BCM2711,b03114,10000000e259a1f2,Raspberry Pi 4 Model B Rev 1.4,e4:5f:01:41:34:e6,e4:5f:01:41:34:e7
+ARMv7 Processor rev 3 (v7l),BCM2711,b03114,10000000e259a1f2,Raspberry Pi 4 Model B Rev 1.4,e4:5f:01:41:34:e6,e4:5f:01:41:34:e7
+ARMv7 Processor rev 3 (v7l),BCM2711,b03114,100000001932928e,Raspberry Pi 4 Model B Rev 1.4,e4:5f:01:16:11:f5,e4:5f:01:16:11:f7
+ARMv7 Processor rev 3 (v7l),BCM2711,b03114,10000000c5dc45c6,Raspberry Pi 4 Model B Rev 1.4,e4:5f:01:19:60:0d,e4:5f:01:19:60:0e
+ARMv7 Processor rev 3 (v7l),BCM2711,b03114,10000000f3eb87fd,Raspberry Pi 4 Model B Rev 1.4,e4:5f:01:41:38:d5,e4:5f:01:41:38:d7
+ARMv7 Processor rev 3 (v7l),BCM2711,c03114,10000000ee99352d,Raspberry Pi 4 Model B Rev 1.4,e4:5f:01:73:94:3f,e4:5f:01:73:94:41
+ARMv7 Processor rev 3 (v7l),BCM2711,c03115,1000000039a86f4a,Raspberry Pi 4 Model B Rev 1.5,e4:5f:01:ad:cf:4b,e4:5f:01:ad:cf:4c
+ARMv7 Processor rev 3 (v7l),BCM2711,b03114,100000001f808032,Raspberry Pi 4 Model B Rev 1.4,dc:a6:32:e6:ed:57,dc:a6:32:e6:ed:58
+ARMv7 Processor rev 3 (v7l),BCM2711,d03114,10000000829cebe7,Raspberry Pi 4 Model B Rev 1.4,e4:5f:01:c4:1a:1f,e4:5f:01:c4:1a:20
