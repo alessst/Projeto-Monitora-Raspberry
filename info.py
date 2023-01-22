@@ -83,7 +83,7 @@ def arquivo_csv():
             # Cria DataFrame a partir do dicionario
             df = pd.DataFrame.from_dict(dicionario)
         # salvando o dataframe em csv
-        df.to_csv(filepath, index=False)
+    df.to_csv(filepath, index=False)
 
 def main():
     creds = None
@@ -95,7 +95,7 @@ def main():
         raise ValueError("Credenciais inválidas ou inexistentes.")
 
     try:
-        arquivo_csv()
+        
         service = build('sheets', 'v4', credentials=creds)
 
         # Adicionar uma nova linha com dados
@@ -112,5 +112,5 @@ def main():
     except HttpError as err:
         print(err)
 
-
+arquivo_csv()
 main()
